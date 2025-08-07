@@ -1,0 +1,60 @@
+31-Jul-2025 22:01:00.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.107
+31-Jul-2025 22:01:00.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 2 2025 07:01:03 UTC
+31-Jul-2025 22:01:00.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.107.0
+31-Jul-2025 22:01:00.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+31-Jul-2025 22:01:00.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+31-Jul-2025 22:01:00.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+31-Jul-2025 22:01:00.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-24
+31-Jul-2025 22:01:00.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           24.0.1+9-30
+31-Jul-2025 22:01:00.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+31-Jul-2025 22:01:00.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HARSH\IdeaProjects\SpringProject
+31-Jul-2025 22:01:00.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HARSH\Downloads\apache-tomcat-9.0.107-windows-x64\apache-tomcat-9.0.107
+31-Jul-2025 22:01:00.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+31-Jul-2025 22:01:00.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+31-Jul-2025 22:01:00.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+31-Jul-2025 22:01:00.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+31-Jul-2025 22:01:00.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+31-Jul-2025 22:01:00.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HARSH\Downloads\apache-tomcat-9.0.107-windows-x64\apache-tomcat-9.0.107
+31-Jul-2025 22:01:00.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HARSH\IdeaProjects\SpringProject
+31-Jul-2025 22:01:00.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HARSH\IdeaProjects\SpringProject\temp
+31-Jul-2025 22:01:00.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HARSH\IdeaProjects\SpringProject\conf\logging.properties
+31-Jul-2025 22:01:00.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jul-2025 22:01:00.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.3\lib\idea_rt.jar=57270
+31-Jul-2025 22:01:00.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+31-Jul-2025 22:01:00.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+31-Jul-2025 22:01:00.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+31-Jul-2025 22:01:00.330 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+31-Jul-2025 22:01:00.331 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+31-Jul-2025 22:01:00.331 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+31-Jul-2025 22:01:00.354 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+31-Jul-2025 22:01:00.860 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+31-Jul-2025 22:01:00.891 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [978] milliseconds
+31-Jul-2025 22:01:00.958 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Jul-2025 22:01:00.958 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.107]
+31-Jul-2025 22:01:00.969 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HARSH\IdeaProjects\SpringProject\conf\Catalina\localhost\SpringProject.xml]
+31-Jul-2025 22:01:03.777 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+31-Jul-2025 22:01:04.083 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+31-Jul-2025 22:01:05.336 INFO [main] org.hibernate.Version.logVersion HHH000412: Hibernate ORM core version 5.6.15.Final
+31-Jul-2025 22:01:05.888 INFO [main] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+31-Jul-2025 22:01:06.984 INFO [main] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+31-Jul-2025 22:01:08.549 INFO [main] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator.initiateService HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+31-Jul-2025 22:01:09.400 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 5317 ms
+31-Jul-2025 22:01:09.418 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HARSH\IdeaProjects\SpringProject\conf\Catalina\localhost\SpringProject.xml] has finished in [8,449] ms
+31-Jul-2025 22:01:09.422 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+31-Jul-2025 22:01:09.435 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [8540] milliseconds
+31-Jul-2025 22:01:12.926 WARN [http-nio-8080-exec-2] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+31-Jul-2025 22:01:40.934 WARN [http-nio-8080-exec-8] org.hibernate.internal.SessionImpl.createCriteria HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+31-Jul-2025 22:04:33.267 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+31-Jul-2025 22:04:33.267 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+31-Jul-2025 22:04:33.302 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [SpringProject] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+31-Jul-2025 22:04:33.302 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [SpringProject] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/java.lang.Object.wait0(Native Method)
+ java.base/java.lang.Object.wait(Object.java:389)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:124)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:215)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+ java.base/java.lang.Thread.run(Thread.java:1447)
+31-Jul-2025 22:04:33.315 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+31-Jul-2025 22:04:33.335 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
